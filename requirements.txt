@@ -1,0 +1,8 @@
+certifi
+wincertstore==0.2
+numpy
+pandas
+streamlit
+scikit-learn
+matplotlib
+dill
