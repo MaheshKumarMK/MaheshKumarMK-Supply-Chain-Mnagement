@@ -30,5 +30,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Deployment link
+https://product-weight.onrender.com
 
+## pdf link
 [Link Text](pdf.pdf)
