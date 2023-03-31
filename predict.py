@@ -15,8 +15,8 @@ model = data["model"]
 pipe = data["pipeline"]
 
 def show_predict_page():
-    st.set_page_config(page_title="WARE HOUSE :blue[_PRODUCT WEIGHT_] PREDICTION :sunglasses:", page_icon='smiley',layout='wide', initial_sidebar_state="expanded")
-    st.title("WARE HOUSE :blue[_PRODUCT WEIGHT_] PREDICTION :sunglasses:")
+    st.set_page_config(page_title="WARE HOUSE :blue[_PRODUCT WEIGHT_] PREDICTION",layout='wide', initial_sidebar_state="expanded")
+    st.title("WARE HOUSE :blue[_PRODUCT WEIGHT_] PREDICTION")
     
     st.write("""### We need some information to predict the product weight""")
 
