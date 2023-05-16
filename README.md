@@ -5,9 +5,9 @@ This repository aims to build a model, using historical data that will determine
 ## How to run?
 
 ### step 1: clone the github
-'''bash
+```bash
 git clone https://github.com/MaheshKumarMK/MaheshKumarMK-Supply-Chain-Mnagement.git
-'''
+```
 
 ### Step 2- Create a conda environment after opening the repository
 
